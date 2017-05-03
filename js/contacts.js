@@ -1,12 +1,12 @@
 var peeps = [
   {
   name: 'Mercury Man',
-  email: 'theman@mercur.com',
+  email: 'theman@mercury.com',
   tel: '+05551234',
   loc: [46001200, 69816900]
 },
 {
-  name: 'Venus Venutrer',
+  name: 'Venus Venturer',
   email: 'venus@theadcenturer.com',
   tel: '+1551234',
   loc: [107477000, 108939000]
